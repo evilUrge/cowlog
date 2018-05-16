@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "lerna": "^2.9.0",
-    "nyc": "^11.6.0"
+    "nyc": "11.7.3"
   },
   "dependencies": {
     "codeclimate-test-reporter": "^0.5.0",
